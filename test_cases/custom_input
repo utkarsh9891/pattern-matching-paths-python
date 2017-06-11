@@ -1,0 +1,59 @@
+29
+*
+*
+a,*,*
+*,b,*
+*,*,c
+a,b,*
+a,*,c
+*,b,c
+a,b,c
+a,b,c
+A,B,C
+a,B,c
+foo,bar,baz
+foo,bar,*
+foo,*,baz
+w,x,*,*
+w,x,*,*
+w,x,y,*
+w,x,*,z
+*,x,y,z
+*,x,y,z
+*,x,y,z
+*
+**
+******,*,**
+*,!@#$ %^&*(),*,*
+foo,!@#$ %^&*(),*,baz
+/,/,/
+/,*,/
+28
+dummy
+1
+2
+*
+***
+a/b/c
+/a/b/c/
+/a/b/c
+a/b/c/
+a/b/c/
+A/B/C
+/A/B/C/
+/A/B/C
+A/B/C/
+A/b/C/
+A/b/C/
+foo/
+foo/bar/
+foo/bar/baz/
+foo/bar/baz/lorem/
+lorem/foo/bar/baz
+/w/x/y/z/
+/w/x/b/d/
+/w/x/********/z
+/w/x/y/********/
+foo/!@#$ %^&*()/*/baz
+foo/!@#$ %^&*()/bar/baz
+a/!@#$ %^&*()/b/c

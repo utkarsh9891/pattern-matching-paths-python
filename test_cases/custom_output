@@ -1,0 +1,28 @@
+*
+*
+*
+*
+*
+a,b,c
+a,b,c
+a,b,c
+a,b,c
+a,b,c
+A,B,C
+A,B,C
+A,B,C
+A,B,C
+*,b,*
+*,b,*
+*
+NO MATCH
+foo,bar,baz
+NO MATCH
+NO MATCH
+w,x,y,*
+w,x,*,*
+w,x,*,z
+w,x,y,*
+foo,!@#$ %^&*(),*,baz
+foo,!@#$ %^&*(),*,baz
+*,!@#$ %^&*(),*,*
